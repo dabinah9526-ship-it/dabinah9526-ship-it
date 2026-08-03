@@ -196,7 +196,6 @@ Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.
 - [상품 화면 코드](https://github.com/Medo-skb/Unipet/tree/main/unipet/src/main/webapp/WEB-INF/product)
 - [커뮤니티 화면 코드](https://github.com/Medo-skb/Unipet/tree/main/unipet/src/main/webapp/WEB-INF/board)
 - [MyBatis SQL 코드](https://github.com/Medo-skb/Unipet/tree/main/unipet/src/main/resources/mybatis-mapper)
-- [이다빈 커밋 내역](https://github.com/Medo-skb/Unipet/commits/main/?author=dabinah9526-ship-it)
 
 </details>
 
@@ -287,7 +286,6 @@ Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.
 - [따iT Repository](https://github.com/4288-yerim/flutterteam03)
 - [스터디 코드](https://github.com/4288-yerim/flutterteam03/tree/dev/lib/study)
 - [커뮤니티 코드](https://github.com/4288-yerim/flutterteam03/tree/dev/lib/community)
-- [이다빈 커밋 내역](https://github.com/4288-yerim/flutterteam03/commits/dev/?author=dabinah9526-ship-it)
 
 </details>
 
