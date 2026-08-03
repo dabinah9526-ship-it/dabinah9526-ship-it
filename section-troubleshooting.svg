@@ -1,8 +1,0 @@
-<svg width="1200" height="118" viewBox="0 0 1200 118" xmlns="http://www.w3.org/2000/svg">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="118"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#7C2D12"/></linearGradient></defs>
-  <rect width="1200" height="118" rx="24" fill="url(#g)"/>
-  <circle cx="1085" cy="28" r="115" fill="#FB923C" opacity=".13"/>
-  <text x="48" y="48" fill="#FDBA74" font-size="14" font-weight="700" letter-spacing="4" font-family="Arial, sans-serif">03 · SOLVE</text>
-  <text x="48" y="88" fill="white" font-size="34" font-weight="800" font-family="Pretendard, Noto Sans KR, Arial, sans-serif">TROUBLESHOOTING</text>
-  <path d="M925 77L962 40L999 77L1036 40L1073 77" stroke="#FED7AA" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
