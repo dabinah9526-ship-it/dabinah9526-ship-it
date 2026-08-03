@@ -1,8 +1,0 @@
-<svg width="1200" height="118" viewBox="0 0 1200 118" xmlns="http://www.w3.org/2000/svg">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="118"><stop stop-color="#312E81"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs>
-  <rect width="1200" height="118" rx="24" fill="url(#g)"/>
-  <circle cx="1080" cy="105" r="120" fill="#F9A8D4" opacity=".1"/>
-  <text x="48" y="48" fill="#A5F3FC" font-size="14" font-weight="700" letter-spacing="4" font-family="Arial, sans-serif">02 · BUILD</text>
-  <text x="48" y="88" fill="white" font-size="34" font-weight="800" font-family="Pretendard, Noto Sans KR, Arial, sans-serif">PROJECTS</text>
-  <rect x="875" y="36" width="72" height="48" rx="12" fill="white" opacity=".12"/><rect x="963" y="36" width="72" height="48" rx="12" fill="white" opacity=".16"/><rect x="1051" y="36" width="72" height="48" rx="12" fill="white" opacity=".2"/>
-</svg>
