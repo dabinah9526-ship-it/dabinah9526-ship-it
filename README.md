@@ -1,148 +1,201 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="이다빈 Backend Developer">
+<img src="./profile-header.svg" width="100%" alt="이다빈 Backend Developer">
 
-Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.  
-개인·팀 프로젝트를 진행하며 DB 설계, API 연동, 권한 처리와 오류 수정을 경험했습니다.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-dabinah9526--ship--it-181717?style=for-the-badge&logo=github)](https://github.com/dabinah9526-ship-it)
-[![Email](https://img.shields.io/badge/Email-dabinah26%40naver.com-E094A3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabinah26@naver.com)
+Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.개인·팀 프로젝트를 진행하며 DB 설계, API 연동, 권한 처리와 오류 수정을 경험했습니다.
 
 <br>
 
-[Tech Stack](#tech-stack) · [Projects](#projects) · [Troubleshooting](#troubleshooting) · [About Me](#about-me) · [Contact](#contact)
+
+
+<br>
+
+Tech Stack · Projects · Troubleshooting · About Me · Contact
 
 </div>
 
 <a id="tech-stack"></a>
 
-<img src="./assets/section-tech.svg" width="100%" alt="Tech Stack">
+<img src="./section-tech.svg" width="100%" alt="Tech Stack">
 
 <div align="center">
 
-### Backend
+Backend
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+Database
 
-### Frontend & Mobile
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Tools
+Frontend & Mobile
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+Tools
+
+
 
 </div>
 
 <a id="projects"></a>
 
-<img src="./assets/section-projects.svg" width="100%" alt="Projects">
+<img src="./section-projects.svg" width="100%" alt="Projects">
 
 <div align="center">
 
-<img src="./assets/project-kstep.svg" width="32%" alt="K-STEP 개인 프로젝트">
-<img src="./assets/project-unipet.svg" width="32%" alt="UNIPET 팀 프로젝트">
-<img src="./assets/project-ttait.svg" width="32%" alt="따iT 팀 프로젝트">
+<img src="./project-kstep.svg" width="32%" alt="K-STEP 개인 프로젝트">
+<img src="./project-unipet.svg" width="32%" alt="UNIPET 팀 프로젝트">
+<img src="./project-ttait.svg" width="32%" alt="따iT 팀 프로젝트">
 
 </div>
 
 <br>
 
-| 프로젝트 | 구분 | 담당 | 주요 기술 |
-|:---:|:---:|:---:|:---:|
-| **✈️ K-STEP** | 개인 프로젝트 | 기획, DB, API, 화면 연동 | React, Express, Oracle |
-| **🐾 UNIPET** | 팀 프로젝트 | 쇼핑몰, 커뮤니티 | Spring Boot, MyBatis, MySQL |
-| **📚 따iT** | 팀 프로젝트 | 스터디, 커뮤니티 | Flutter, Firebase |
+프로젝트
+
+구분
+
+담당
+
+주요 기술
+
+✈️ K-STEP
+
+개인 프로젝트
+
+기획, DB, API, 화면 연동
+
+React, Express, Oracle
+
+🐾 UNIPET
+
+팀 프로젝트
+
+쇼핑몰, 커뮤니티
+
+Spring Boot, MyBatis, MySQL
+
+📚 따iT
+
+팀 프로젝트
+
+스터디, 커뮤니티
+
+Flutter, Firebase
 
 <br>
 
 <details open>
 <summary><h3>✈️ K-STEP | 한국 여행 SNS 개인 프로젝트</h3></summary>
 
-> 한국 여행 사진과 장소, 이동 루트를 기록하고 공유하는 SNS입니다.
+한국 여행 사진과 장소, 이동 루트를 기록하고 공유하는 SNS입니다.
 
-#### 프로젝트 정보
+프로젝트 정보
 
-| 기간 | 인원 | 담당 | 기술 |
-|:---:|:---:|:---|:---|
-| 2026.05.27 ~ 2026.06.09 | 1명 | 기획, DB 설계, API 개발, React 화면 및 서버 연동 | React, Node.js, Express, Oracle, JWT, bcrypt, Multer |
+기간
 
-#### 회원 및 인증
+인원
 
-- 회원가입 및 로그인
-- JWT 기반 사용자 인증
-- bcrypt 비밀번호 암호화
-- 아이디·닉네임 중복 확인
-- 아이디 및 비밀번호 찾기
-- 프로필 조회·수정
-- 비공개 계정 설정
-- 사용자 차단 및 차단 해제
+담당
 
-#### 여행 피드
+기술
 
-- 피드 작성·수정·삭제
-- 피드 목록 및 상세 조회
-- 다중 이미지 업로드
-- 지역·카테고리·해시태그 검색
-- 여행 장소 및 이동 순서 저장
-- 팔로우한 사용자 피드 조회
-- 비공개 계정의 피드 조회 제한
-- 차단한 사용자와 차단당한 사용자의 피드 제외
+2026.05.27 ~ 2026.06.09
 
-#### 댓글 및 사용자 활동
+1명
 
-- 댓글 작성·수정·삭제
-- 좋아요 등록·취소
-- 여행 루트 저장·취소
-- 팔로우·팔로우 취소
-- 비공개 계정의 팔로우 요청
-- 팔로우 요청 수락·거절
-- 댓글·좋아요·팔로우 알림
+기획, DB 설계, API 개발, React 화면 및 서버 연동
 
-#### 스토리 및 채팅
+React, Node.js, Express, Oracle, JWT, bcrypt, Multer
 
-- 스토리 등록·조회·삭제
-- 본 스토리와 보지 않은 스토리 구분
-- 스토리 조회자 목록
-- 채팅방 생성
-- 메시지 전송
-- 나에게만 메시지 삭제
-- 모든 사용자에게 메시지 삭제
-- 사용자 접속 상태 확인
+회원 및 인증
 
-#### 서버 처리
+회원가입 및 로그인
 
-- 피드·이미지·여행 장소를 같은 DB 커넥션에서 저장
-- 전체 저장 성공 시 `commit`
-- 오류 발생 시 `rollback`
-- 사용한 Oracle 커넥션을 `finally`에서 반환
-- 비공개·팔로우·차단 상태를 서버에서 확인
-- 로그인 사용자에 따라 좋아요·저장 여부를 함께 응답
+JWT 기반 사용자 인증
 
-#### 🔗 코드 보기
+bcrypt 비밀번호 암호화
 
-[![Repository](https://img.shields.io/badge/K--STEP-Repository-181717?style=flat-square&logo=github)](https://github.com/dabinah9526-ship-it/react_project_kstep)
-[![API](https://img.shields.io/badge/Express-API%20코드-000000?style=flat-square&logo=express)](https://github.com/dabinah9526-ship-it/react_project_kstep/tree/main/express-back/routes)
-[![React](https://img.shields.io/badge/React-화면%20코드-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/dabinah9526-ship-it/react_project_kstep/tree/main/react-front/src)
-[![Oracle](https://img.shields.io/badge/Oracle-DB%20파일-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/dabinah9526-ship-it/react_project_kstep/tree/main/kstep_db_backup)
+아이디·닉네임 중복 확인
+
+아이디 및 비밀번호 찾기
+
+프로필 조회·수정
+
+비공개 계정 설정
+
+사용자 차단 및 차단 해제
+
+여행 피드
+
+피드 작성·수정·삭제
+
+피드 목록 및 상세 조회
+
+다중 이미지 업로드
+
+지역·카테고리·해시태그 검색
+
+여행 장소 및 이동 순서 저장
+
+팔로우한 사용자 피드 조회
+
+비공개 계정의 피드 조회 제한
+
+차단한 사용자와 차단당한 사용자의 피드 제외
+
+댓글 및 사용자 활동
+
+댓글 작성·수정·삭제
+
+좋아요 등록·취소
+
+여행 루트 저장·취소
+
+팔로우·팔로우 취소
+
+비공개 계정의 팔로우 요청
+
+팔로우 요청 수락·거절
+
+댓글·좋아요·팔로우 알림
+
+스토리 및 채팅
+
+스토리 등록·조회·삭제
+
+본 스토리와 보지 않은 스토리 구분
+
+스토리 조회자 목록
+
+채팅방 생성
+
+메시지 전송
+
+나에게만 메시지 삭제
+
+모든 사용자에게 메시지 삭제
+
+사용자 접속 상태 확인
+
+서버 처리
+
+피드·이미지·여행 장소를 같은 DB 커넥션에서 저장
+
+전체 저장 성공 시 commit
+
+오류 발생 시 rollback
+
+사용한 Oracle 커넥션을 finally에서 반환
+
+비공개·팔로우·차단 상태를 서버에서 확인
+
+로그인 사용자에 따라 좋아요·저장 여부를 함께 응답
+
+🔗 코드 보기
+
+
 
 </details>
 
@@ -151,63 +204,99 @@ Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.
 <details>
 <summary><h3>🐾 UNIPET | 반려동물 통합 플랫폼 팀 프로젝트</h3></summary>
 
-> 반려동물 쇼핑, 커뮤니티, 병원·미용실·호텔링 예약 기능을 제공하는 웹 서비스입니다.
+반려동물 쇼핑, 커뮤니티, 병원·미용실·호텔링 예약 기능을 제공하는 웹 서비스입니다.
 
-#### 프로젝트 정보
+프로젝트 정보
 
-| 기간 | 인원 | 담당 | 기술 |
-|:---:|:---:|:---|:---|
-| 2026.04.09 ~ 2026.04.30 | 5명 | 쇼핑몰, 커뮤니티 | Java, Spring Boot, MyBatis, MySQL, JSP, jQuery, JavaScript |
+기간
 
-#### 쇼핑몰
+인원
 
-- 상품 목록 및 상세 페이지
-- 상품 카테고리 필터
-- 가격 및 추천 대상 필터
-- 최신순·가격순·리뷰순·평점순 정렬
-- 장바구니 상품 추가·수량 변경·삭제
-- 상품 찜 등록·해제
-- 상품평 작성·수정·삭제
-- 이미지 상품평 슬라이드
-- 작성자와 관리자에 따른 버튼 권한 구분
+담당
 
-#### 커뮤니티
+기술
 
-- 통합·지역 게시판
-- 게시글 목록 및 상세 조회
-- 게시글 작성·수정·삭제
-- 게시판 카테고리 및 지역 필터
-- 게시글 검색·정렬·페이징
-- 공지사항
-- 비공개 게시글
-- 게시글 임시저장
-- 게시글 첨부파일
-- 댓글 작성·수정·삭제
-- 게시글 추천·신고·알림
+2026.04.09 ~ 2026.04.30
 
-#### 금칙어 필터 개선
+5명
 
-- 정확히 일치하는 단어만 걸러지던 문제 확인
-- 공백과 특수문자가 포함된 표현도 찾도록 정규식 적용
-- 게시글 제목·본문·댓글에 공통 필터 적용
-- 금칙어 목록을 `BAD_WORD` 테이블로 이동
-- MyBatis를 통해 활성화된 금칙어만 조회
-- 코드 수정 없이 DB에서 금칙어 추가 및 사용 여부 관리
+쇼핑몰, 커뮤니티
 
-#### 회원 권한 처리
+Java, Spring Boot, MyBatis, MySQL, JSP, jQuery, JavaScript
 
-- 공지사항은 관리자만 작성·삭제
-- 일반회원 화면에서 공지 작성 버튼 숨김
-- 상품평 작성자만 수정·삭제 가능
-- 관리자는 상품평 삭제만 가능
-- 화면의 버튼 조건과 서버 권한 조건을 함께 수정
+쇼핑몰
 
-#### 🔗 코드 및 커밋 보기
+상품 목록 및 상세 페이지
 
-[![Repository](https://img.shields.io/badge/UNIPET-Repository-181717?style=flat-square&logo=github)](https://github.com/Medo-skb/Unipet)
-[![Product](https://img.shields.io/badge/상품-화면%20코드-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/Medo-skb/Unipet/tree/main/unipet/src/main/webapp/WEB-INF/product)
-[![Community](https://img.shields.io/badge/커뮤니티-화면%20코드-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://github.com/Medo-skb/Unipet/tree/main/unipet/src/main/webapp/WEB-INF/board)
-[![MyBatis](https://img.shields.io/badge/MyBatis-SQL%20코드-000000?style=flat-square)](https://github.com/Medo-skb/Unipet/tree/main/unipet/src/main/resources/mybatis-mapper)
+상품 카테고리 필터
+
+가격 및 추천 대상 필터
+
+최신순·가격순·리뷰순·평점순 정렬
+
+장바구니 상품 추가·수량 변경·삭제
+
+상품 찜 등록·해제
+
+상품평 작성·수정·삭제
+
+이미지 상품평 슬라이드
+
+작성자와 관리자에 따른 버튼 권한 구분
+
+커뮤니티
+
+통합·지역 게시판
+
+게시글 목록 및 상세 조회
+
+게시글 작성·수정·삭제
+
+게시판 카테고리 및 지역 필터
+
+게시글 검색·정렬·페이징
+
+공지사항
+
+비공개 게시글
+
+게시글 임시저장
+
+게시글 첨부파일
+
+댓글 작성·수정·삭제
+
+게시글 추천·신고·알림
+
+금칙어 필터 개선
+
+정확히 일치하는 단어만 걸러지던 문제 확인
+
+공백과 특수문자가 포함된 표현도 찾도록 정규식 적용
+
+게시글 제목·본문·댓글에 공통 필터 적용
+
+금칙어 목록을 BAD_WORD 테이블로 이동
+
+MyBatis를 통해 활성화된 금칙어만 조회
+
+코드 수정 없이 DB에서 금칙어 추가 및 사용 여부 관리
+
+회원 권한 처리
+
+공지사항은 관리자만 작성·삭제
+
+일반회원 화면에서 공지 작성 버튼 숨김
+
+상품평 작성자만 수정·삭제 가능
+
+관리자는 상품평 삭제만 가능
+
+화면의 버튼 조건과 서버 권한 조건을 함께 수정
+
+🔗 코드 및 커밋 보기
+
+
 
 </details>
 
@@ -216,105 +305,161 @@ Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.
 <details>
 <summary><h3>📚 따iT | 자격증 학습 관리 Flutter 팀 프로젝트</h3></summary>
 
-> 자격증 일정 관리와 스터디, 커뮤니티 기능을 제공하는 모바일 앱입니다.
+자격증 일정 관리와 스터디, 커뮤니티 기능을 제공하는 모바일 앱입니다.
 
-#### 프로젝트 정보
+프로젝트 정보
 
-| 상태 | 담당 | 기술 | 협업 |
-|:---:|:---:|:---|:---:|
-| 개발 진행 중 | 스터디, 커뮤니티 | Flutter, Dart, Firebase Auth, Firestore, Firebase Storage | 기능 브랜치 개발 및 Pull Request |
+상태
 
-#### 스터디 생성 및 참여
+담당
 
-- 스터디 목록 실시간 조회
-- 모집 상태별 필터
-- 공개·비공개 스터디 구분
-- 키워드 검색
-- 스터디 생성·수정
-- 스터디 상세 조회
-- 목표 시험일 및 모집 인원 설정
-- 즉시 참여와 승인 후 참여 구분
-- 참여 신청 수락·거절
+기술
 
-#### 그룹 관리
+협업
 
-- 방장·매니저·일반회원 권한 구분
-- 그룹원 목록
-- 공부 시간 순위
-- 회원 초대
-- 그룹원 신고
-- 그룹원 추방
-- 스터디 나가기
-- 스터디 삭제
-- 관련 하위 컬렉션 삭제
+개발 진행 중
 
-#### 공부 기록
+스터디, 커뮤니티
 
-- 일반 타이머
-- 포모도로 타이머
-- 시작·일시정지·재시작·종료
-- 과목 추가·수정·삭제
-- 과목별 공부 시간 저장
-- 일자별 공부 기록 저장
-- 오늘 공부 시간 표시
-- 누적 공부 시간 표시
-- 앱 이탈 횟수를 이용한 집중 점수
-- 시험일까지의 D-Day
-- 목표 공부 시간 달성률
-- 스터디원 공부 시간 순위
+Flutter, Dart, Firebase Auth, Firestore, Firebase Storage
 
-#### 그룹 채팅 및 문제
+기능 브랜치 개발 및 Pull Request
 
-- 실시간 그룹 채팅
-- 작성자와 전송 시간 표시
-- 메시지 답장
-- 방장 공지 작성
-- 사진 업로드
-- 파일 업로드
-- 업로드 진행률 표시
-- OX 문제 등록
-- 객관식·주관식 문제 등록
-- 문제 전송 및 답안 확인
+스터디 생성 및 참여
 
-#### 커뮤니티
+스터디 목록 실시간 조회
 
-- 게시판 종류별 게시글 조회
-- Firestore 실시간 목록 조회
-- 게시글 상세 조회
-- 게시글 작성·수정·삭제
-- 문서를 완전히 지우지 않는 상태 변경 방식의 삭제
-- 제목·내용·작성자 검색
-- 자격증 태그 필터
-- 최신순·조회순·좋아요순·댓글순 정렬
-- 인기 게시글 표시
-- 로그인 사용자 확인
-- 작성자에 따른 수정·삭제 권한 처리
+모집 상태별 필터
 
-#### 🔗 코드 및 커밋 보기
+공개·비공개 스터디 구분
 
-[![Repository](https://img.shields.io/badge/따iT-Repository-181717?style=flat-square&logo=github)](https://github.com/4288-yerim/flutterteam03)
-[![Study](https://img.shields.io/badge/스터디-코드-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/4288-yerim/flutterteam03/tree/dev/lib/study)
-[![Community](https://img.shields.io/badge/커뮤니티-코드-DD2C00?style=flat-square&logo=firebase&logoColor=white)](https://github.com/4288-yerim/flutterteam03/tree/dev/lib/community)
+키워드 검색
+
+스터디 생성·수정
+
+스터디 상세 조회
+
+목표 시험일 및 모집 인원 설정
+
+즉시 참여와 승인 후 참여 구분
+
+참여 신청 수락·거절
+
+그룹 관리
+
+방장·매니저·일반회원 권한 구분
+
+그룹원 목록
+
+공부 시간 순위
+
+회원 초대
+
+그룹원 신고
+
+그룹원 추방
+
+스터디 나가기
+
+스터디 삭제
+
+관련 하위 컬렉션 삭제
+
+공부 기록
+
+일반 타이머
+
+포모도로 타이머
+
+시작·일시정지·재시작·종료
+
+과목 추가·수정·삭제
+
+과목별 공부 시간 저장
+
+일자별 공부 기록 저장
+
+오늘 공부 시간 표시
+
+누적 공부 시간 표시
+
+앱 이탈 횟수를 이용한 집중 점수
+
+시험일까지의 D-Day
+
+목표 공부 시간 달성률
+
+스터디원 공부 시간 순위
+
+그룹 채팅 및 문제
+
+실시간 그룹 채팅
+
+작성자와 전송 시간 표시
+
+메시지 답장
+
+방장 공지 작성
+
+사진 업로드
+
+파일 업로드
+
+업로드 진행률 표시
+
+OX 문제 등록
+
+객관식·주관식 문제 등록
+
+문제 전송 및 답안 확인
+
+커뮤니티
+
+게시판 종류별 게시글 조회
+
+Firestore 실시간 목록 조회
+
+게시글 상세 조회
+
+게시글 작성·수정·삭제
+
+문서를 완전히 지우지 않는 상태 변경 방식의 삭제
+
+제목·내용·작성자 검색
+
+자격증 태그 필터
+
+최신순·조회순·좋아요순·댓글순 정렬
+
+인기 게시글 표시
+
+로그인 사용자 확인
+
+작성자에 따른 수정·삭제 권한 처리
+
+🔗 코드 및 커밋 보기
+
+
 
 </details>
 
 <a id="troubleshooting"></a>
 
-<img src="./assets/section-troubleshooting.svg" width="100%" alt="Troubleshooting">
+<img src="./section-troubleshooting.svg" width="100%" alt="Troubleshooting">
 
 <details open>
 <summary><h3>✈️ K-STEP | 여러 테이블의 저장 결과가 어긋날 수 있는 문제</h3></summary>
 
-> 피드 등록 시 기본 내용은 `FEED`, 이미지는 `FEED_IMAGE`, 여행 장소는 `ROUTE_SPOT` 테이블에 저장됩니다.
+피드 등록 시 기본 내용은 FEED, 이미지는 FEED_IMAGE, 여행 장소는 ROUTE_SPOT 테이블에 저장됩니다.
 
-모든 저장 작업을 하나의 Oracle 커넥션에서 처리하고, 정상적으로 완료된 경우에만 `commit`했습니다. 중간에 오류가 발생하면 전체 작업을 `rollback`해 피드와 첨부 정보가 서로 어긋나지 않도록 처리했습니다.
+모든 저장 작업을 하나의 Oracle 커넥션에서 처리하고, 정상적으로 완료된 경우에만 commit했습니다. 중간에 오류가 발생하면 전체 작업을 rollback해 피드와 첨부 정보가 서로 어긋나지 않도록 처리했습니다.
 
 </details>
 
 <details>
 <summary><h3>🐾 UNIPET | 공백과 특수문자로 금칙어 필터를 피하는 문제</h3></summary>
 
-> 금칙어 사이에 공백이나 특수문자를 넣으면 필터를 통과하는 문제를 확인했습니다.
+금칙어 사이에 공백이나 특수문자를 넣으면 필터를 통과하는 문제를 확인했습니다.
 
 글자 사이의 공백과 특수문자를 인식하도록 정규식을 적용하고, 게시글 제목·본문·댓글에서 같은 공통 메서드를 사용하도록 수정했습니다. 금칙어 목록은 DB에서 관리하도록 변경했습니다.
 
@@ -323,7 +468,7 @@ Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.
 <details>
 <summary><h3>📚 따iT | 타이머 버벅임과 시간 표시 문제</h3></summary>
 
-> 타이머 실행 중 화면이 자주 갱신되면서 버벅이고, 초와 분이 맞지 않게 표시되는 문제를 확인했습니다.
+타이머 실행 중 화면이 자주 갱신되면서 버벅이고, 초와 분이 맞지 않게 표시되는 문제를 확인했습니다.
 
 화면의 갱신 범위를 줄이고 내부에서 사용하는 초 단위 값과 사용자에게 보여주는 시간 형식을 나누어 처리했습니다. 타이머 종료 후에는 공부 기록과 누적 시간을 Firestore에 저장하도록 연결했습니다.
 
@@ -331,37 +476,37 @@ Java와 Spring Boot를 중심으로 서버 개발을 공부하고 있습니다.
 
 <a id="about-me"></a>
 
-<img src="./assets/section-about.svg" width="100%" alt="About Me">
+<img src="./section-about.svg" width="100%" alt="About Me">
 
 <details open>
 <summary><h3>개발을 시작하기 전 경험</h3></summary>
 
-- 러시아에서 고등학교와 대학교 졸업
-- 해외 법인 운영 및 경영지원
-- 러시아어 통번역 및 해외 업무 지원
-- 한국 화장품 유통 회사 운영
-- 외국인 환자 입국·진료 지원
-- 러시아어 의료통역
+러시아에서 고등학교와 대학교 졸업
 
-> 개발 전에는 여러 업무의 처음부터 끝까지 직접 확인하고 처리했습니다.  
-> 이 경험을 바탕으로 개발에서도 화면, 서버와 DB가 연결되는 전체 흐름을 확인하고 있습니다.
+해외 법인 운영 및 경영지원
+
+러시아어 통번역 및 해외 업무 지원
+
+한국 화장품 유통 회사 운영
+
+외국인 환자 입국·진료 지원
+
+러시아어 의료통역
+
+개발 전에는 여러 업무의 처음부터 끝까지 직접 확인하고 처리했습니다.이 경험을 바탕으로 개발에서도 화면, 서버와 DB가 연결되는 전체 흐름을 확인하고 있습니다.
 
 </details>
-
----
 
 <a id="contact"></a>
 
 <div align="center">
 
-## 📬 Contact
+📬 Contact
 
-**Email**  
-[dabinah26@naver.com](mailto:dabinah26@naver.com)
+Emaildabinah26@naver.com
 
-**GitHub**  
-[dabinah9526-ship-it](https://github.com/dabinah9526-ship-it)
+GitHubdabinah9526-ship-it
 
-<img src="./assets/profile-footer.svg" width="100%" alt="이다빈 Backend Developer">
+<img src="./profile-footer.svg" width="100%" alt="이다빈 Backend Developer">
 
 </div>
