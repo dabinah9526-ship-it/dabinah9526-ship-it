@@ -1,0 +1,12 @@
+<svg width="380" height="230" viewBox="0 0 380 230" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="380" y2="230"><stop stop-color="#172554"/><stop offset="1" stop-color="#312E81"/></linearGradient></defs>
+  <rect x="4" y="4" width="372" height="222" rx="24" fill="url(#g)" stroke="#818CF8" stroke-width="2"/>
+  <circle cx="321" cy="47" r="62" fill="#67E8F9" opacity=".12"/>
+  <text x="26" y="44" fill="#A5F3FC" font-size="13" font-weight="700" letter-spacing="2" font-family="Arial, sans-serif">PERSONAL PROJECT</text>
+  <text x="26" y="91" fill="white" font-size="32" font-weight="800" font-family="Pretendard, Noto Sans KR, Arial, sans-serif">K-STEP</text>
+  <text x="26" y="120" fill="#CBD5E1" font-size="15" font-family="Arial, sans-serif">KOREA TRAVEL SNS</text>
+  <rect x="26" y="144" width="90" height="28" rx="14" fill="#61DAFB" opacity=".18"/><text x="47" y="163" fill="#A5F3FC" font-size="12" font-weight="700" font-family="Arial, sans-serif">REACT</text>
+  <rect x="124" y="144" width="92" height="28" rx="14" fill="#A78BFA" opacity=".18"/><text x="143" y="163" fill="#DDD6FE" font-size="12" font-weight="700" font-family="Arial, sans-serif">EXPRESS</text>
+  <rect x="224" y="144" width="90" height="28" rx="14" fill="#F87171" opacity=".18"/><text x="242" y="163" fill="#FECACA" font-size="12" font-weight="700" font-family="Arial, sans-serif">ORACLE</text>
+  <text x="26" y="204" fill="#94A3B8" font-size="13" font-family="Arial, sans-serif">PLANNING · DB · API · UI</text>
+</svg>

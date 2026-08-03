@@ -1,0 +1,12 @@
+<svg width="380" height="230" viewBox="0 0 380 230" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="380" y2="230"><stop stop-color="#052E16"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs>
+  <rect x="4" y="4" width="372" height="222" rx="24" fill="url(#g)" stroke="#34D399" stroke-width="2"/>
+  <circle cx="321" cy="47" r="62" fill="#A7F3D0" opacity=".12"/>
+  <text x="26" y="44" fill="#99F6E4" font-size="13" font-weight="700" letter-spacing="2" font-family="Arial, sans-serif">TEAM PROJECT</text>
+  <text x="26" y="91" fill="white" font-size="32" font-weight="800" font-family="Pretendard, Noto Sans KR, Arial, sans-serif">UNIPET</text>
+  <text x="26" y="120" fill="#D1FAE5" font-size="15" font-family="Arial, sans-serif">PET PLATFORM</text>
+  <rect x="26" y="144" width="92" height="28" rx="14" fill="#6DB33F" opacity=".22"/><text x="43" y="163" fill="#BBF7D0" font-size="12" font-weight="700" font-family="Arial, sans-serif">SPRING</text>
+  <rect x="126" y="144" width="92" height="28" rx="14" fill="#67E8F9" opacity=".16"/><text x="144" y="163" fill="#A5F3FC" font-size="12" font-weight="700" font-family="Arial, sans-serif">MYBATIS</text>
+  <rect x="226" y="144" width="86" height="28" rx="14" fill="#60A5FA" opacity=".18"/><text x="245" y="163" fill="#BFDBFE" font-size="12" font-weight="700" font-family="Arial, sans-serif">MYSQL</text>
+  <text x="26" y="204" fill="#A7F3D0" font-size="13" font-family="Arial, sans-serif">SHOP · COMMUNITY</text>
+</svg>

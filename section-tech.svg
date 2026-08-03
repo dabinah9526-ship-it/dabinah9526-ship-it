@@ -1,0 +1,8 @@
+<svg width="1200" height="118" viewBox="0 0 1200 118" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="118"><stop stop-color="#111827"/><stop offset="1" stop-color="#312E81"/></linearGradient></defs>
+  <rect width="1200" height="118" rx="24" fill="url(#g)"/>
+  <circle cx="1100" cy="20" r="110" fill="#67E8F9" opacity=".1"/>
+  <text x="48" y="48" fill="#67E8F9" font-size="14" font-weight="700" letter-spacing="4" font-family="Arial, sans-serif">01 · SKILLS</text>
+  <text x="48" y="88" fill="white" font-size="34" font-weight="800" font-family="Pretendard, Noto Sans KR, Arial, sans-serif">TECH STACK</text>
+  <path d="M870 60H1145" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/><circle cx="870" cy="60" r="7" fill="#67E8F9"/><circle cx="1145" cy="60" r="7" fill="#F9A8D4"/>
+</svg>
