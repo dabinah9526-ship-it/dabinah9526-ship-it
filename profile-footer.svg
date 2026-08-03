@@ -1,5 +1,0 @@
-<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="130"><stop stop-color="#111827"/><stop offset="0.5" stop-color="#312E81"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs>
-  <path d="M0 28C180 102 326 4 508 47C711 95 821 16 1200 65V130H0V28Z" fill="url(#g)"/>
-  <text x="600" y="102" text-anchor="middle" fill="white" font-size="15" font-weight="600" letter-spacing="3" font-family="Arial, sans-serif">DABIN LEE · BACKEND DEVELOPER</text>
-</svg>
